@@ -7,7 +7,7 @@ const puppeteer = require('puppeteer');
     let browser = await puppeteer.launch();
     let page = await browser.newPage();
 
-    await page.goto(movieUrl, { waitUntil: 'networkidle2'});
+    await page.goto(movieUrl, { waitUntil: 'networkidle0'});
 
     let data = await page.evaluate(() => {
         let title = document.querySelector('div[class="title_wrapper"] > h1').innerText;
@@ -22,8 +22,6 @@ const puppeteer = require('puppeteer');
     })
 
     console.log(data);
-
-    debugger;
 
     await browser.close();
     
