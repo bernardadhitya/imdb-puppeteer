@@ -2,7 +2,8 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 (async () => {
-    let movieUrl = 'https://www.imdb.com/';
+    let movieUrl = 'https://www.imdb.com/chart/top?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4da9d9a5-d299-43f2-9c53-f0efa18182cd&pf_rd_r=RQ2TTEXHKBCAX7DG9QPV&pf_rd_s=right-4&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_ql_3';
+    
     let browser = await puppeteer.launch({headless: false});
     let page = await browser.newPage();
     await page.setDefaultTimeout(90000);
@@ -10,9 +11,10 @@ const fs = require('fs');
 
     let data = [];
 
-    let fanFavorites = await page.evaluate(() => {
-        const container = document.querySelector('div[class="fan-picks"]');
-        const matches = container.querySelectorAll('a[class="ipc-poster-card__title ipc-poster-card__title--clamp-2 ipc-poster-card__title-href"]')
+    let topRating = await page.evaluate(() => {
+        const matches = document.querySelectorAll('table[data-caller-name="chart-top250movie"] td[class="titleColumn"] a')
+        console.log(matches.length);
+        
         let res = [];
         matches.forEach(match => {
             let title = match.innerText;
@@ -26,8 +28,8 @@ const fs = require('fs');
         return res;
     })
 
-    for (let i = 0; i < fanFavorites.length; i++) {
-        let movie = fanFavorites[i];
+    for (let i = 0; i < topRating.length; i++) {
+        let movie = topRating[i];
 
         let title = movie.title;
         let url = movie.url;
