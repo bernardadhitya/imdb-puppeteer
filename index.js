@@ -3,7 +3,7 @@ const fs = require('fs');
 
 (async () => {
     let movieUrl = 'https://www.imdb.com/';
-    let browser = await puppeteer.launch();
+    let browser = await puppeteer.launch({headless: false});
     let page = await browser.newPage();
     await page.setDefaultTimeout(90000);
     await page.goto(movieUrl, { waitUntil: 'networkidle0'});
@@ -12,7 +12,7 @@ const fs = require('fs');
 
     let fanFavorites = await page.evaluate(() => {
         const container = document.querySelector('div[class="fan-picks"]');
-        const matches = document.querySelectorAll('a[class="ipc-poster-card__title ipc-poster-card__title--clamp-2 ipc-poster-card__title-href"]')
+        const matches = container.querySelectorAll('a[class="ipc-poster-card__title ipc-poster-card__title--clamp-2 ipc-poster-card__title-href"]')
         let res = [];
         matches.forEach(match => {
             let title = match.innerText;
@@ -32,17 +32,43 @@ const fs = require('fs');
         let title = movie.title;
         let url = movie.url;
         await page.goto(url, {waitUntil: 'networkidle2'});
+
         let contents = await page.evaluate(() => {
             let rating = document.querySelector('span[itemprop="ratingValue"]').innerHTML;
-            let ratingCount = document.querySelector('span[itemprop="ratingCount"]').innerHTML;
             
-            const container = document.querySelector('#titleStoryLine');
-            const match = container.querySelector('div[class="inline canwrap"]');
-            let synopsis = match.querySelector('span').innerText;
+            let ratingCount = document.querySelector('span[itemprop="ratingCount"]').innerHTML;
+
+            let synopsis = document.querySelector('#titleStoryLine > div[class="inline canwrap"] > p > span').innerText;
+            
+            let credit_summary = document.querySelectorAll('div[class="credit_summary_item"]');
+            let director = credit_summary[0].querySelector('a').innerText;
+
+            let titleCastContainer = document.querySelector('#titleCast');
+            let titleCastContainerName = titleCastContainer.querySelectorAll('td.character');
+            let titleCastContainerCharacter = titleCastContainer.querySelectorAll('td:not([class])');
+
+            let cast = [];
+            for(let j = 0; j < titleCastContainerName.length; j++){
+                cast.push({
+                    name: titleCastContainerName[j].innerText,
+                    character: titleCastContainerCharacter[j].innerText
+                })
+            }
+            
+
+            let genreContainer = document.querySelectorAll('#titleStoryLine div[class="see-more inline canwrap"]')[1].querySelectorAll('a');
+            let genres = [];
+            for(let j = 0; j < genreContainer.length; j++){
+                genres.push(genreContainer[j].innerText);
+            }
+
             return {
                 rating,
                 ratingCount,
-                synopsis
+                synopsis,
+                director,
+                cast,
+                genres
             }
         })
         data.push({

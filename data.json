@@ -4,96 +4,384 @@
         "url": "https://www.imdb.com/title/tt8228288/?ref_=hm_fanfav_tt_1_pd_fp1",
         "contents": {
             "rating": "7.0",
-            "ratingCount": "78,353",
-            "synopsis": "A mysterious place, an indescribable prison, a deep hole. An unknown number of levels. Two inmates living on each level. A descending platform containing food for all of them. An inhuman fight for survival, but also an opportunity for solidarity."
+            "ratingCount": "78,493",
+            "synopsis": "A mysterious place, an indescribable prison, a deep hole. An unknown number of levels. Two inmates living on each level. A descending platform containing food for all of them. An inhuman fight for survival, but also an opportunity for solidarity.",
+            "director": "Galder Gaztelu-Urrutia",
+            "cast": [{
+                "name": "Goreng",
+                "character": "Ivan Massagué"
+            }, {
+                "name": "Trimagasi",
+                "character": "Zorion Eguileor"
+            }, {
+                "name": "Imoguiri",
+                "character": "Antonia San Juan"
+            }, {
+                "name": "Baharat",
+                "character": "Emilio Buale"
+            }, {
+                "name": "Miharu",
+                "character": "Alexandra Masangkay"
+            }, {
+                "name": "Mali",
+                "character": "Zihara Llana"
+            }, {
+                "name": "Amigo de Baharat",
+                "character": "Mario Pardo"
+            }, {
+                "name": "Preso",
+                "character": "Algis Arlauskas"
+            }, {
+                "name": "Jefe de Restaurante (as Txubio Fernández)",
+                "character": "Txubio Fernández de Jáuregui"
+            }, {
+                "name": "Sr. Brambang (as Eric L. Goode)",
+                "character": "Eric Goode"
+            }, {
+                "name": "Cocinero",
+                "character": "Óscar Oliver"
+            }, {
+                "name": "Preso Nivel 5",
+                "character": "Chema Trujillo"
+            }, {
+                "name": "Presa Nivel 5",
+                "character": "Miriam Martín"
+            }, {
+                "name": "Preso Síndrome de Down",
+                "character": "Gorka Zufiaurre"
+            }, {
+                "name": "Cocinera",
+                "character": "Miriam K. Martxante"
+            }],
+            "genres": ["Horror", "Sci-Fi", "Thriller"]
         }
     }, {
         "title": "Gisaengchung",
         "url": "https://www.imdb.com/title/tt6751668/?ref_=hm_fanfav_tt_2_pd_fp1",
         "contents": {
             "rating": "8.6",
-            "ratingCount": "357,433",
-            "synopsis": "The Kims - mother and father Chung-sook and Ki-taek, and their young adult offspring, son Ki-woo and daughter Ki-jung - are a poor family living in a shabby and cramped half basement apartment in a busy lower working class commercial district of Seoul. Without even knowing it, they, especially Mr. and Mrs. Kim, literally smell of poverty. Often as a collective, they perpetrate minor scams to get by, and even when they have jobs, they do the minimum work required. Ki-woo is the one who has dreams of getting out of poverty by one day going to university. Despite not having that university education, Ki-woo is chosen by his university student friend Min, who is leaving to go to school, to take over his tutoring job to Park Da-hye, who Min plans to date once he returns to Seoul and she herself is in university. The Parks are a wealthy family who for four years have lived in their modernistic house designed by and the former residence of famed architect Namgoong. While Mr. and Mrs. Park ..."
+            "ratingCount": "357,613",
+            "synopsis": "The Kims - mother and father Chung-sook and Ki-taek, and their young adult offspring, son Ki-woo and daughter Ki-jung - are a poor family living in a shabby and cramped half basement apartment in a busy lower working class commercial district of Seoul. Without even knowing it, they, especially Mr. and Mrs. Kim, literally smell of poverty. Often as a collective, they perpetrate minor scams to get by, and even when they have jobs, they do the minimum work required. Ki-woo is the one who has dreams of getting out of poverty by one day going to university. Despite not having that university education, Ki-woo is chosen by his university student friend Min, who is leaving to go to school, to take over his tutoring job to Park Da-hye, who Min plans to date once he returns to Seoul and she herself is in university. The Parks are a wealthy family who for four years have lived in their modernistic house designed by and the former residence of famed architect Namgoong. While Mr. and Mrs. Park ...",
+            "director": "Bong Joon Ho",
+            "cast": [{
+                "name": "Ki Taek (as Song Kang Ho)",
+                "character": "Kang-ho Song"
+            }, {
+                "name": "Dong Ik (as Lee Sun Kyun)",
+                "character": "Sun-kyun Lee"
+            }, {
+                "name": "Yeon Kyo (as Cho Yeo Jeong)",
+                "character": "Yeo-jeong Jo"
+            }, {
+                "name": "Ki Woo (as Choi Woo Shik)",
+                "character": "Woo-sik Choi"
+            }, {
+                "name": "Ki Jung (as Park So Dam)",
+                "character": "So-dam Park"
+            }, {
+                "name": "Moon Gwang (as Lee Jung Eun)",
+                "character": "Jeong-eun Lee"
+            }, {
+                "name": "Chung Sook (as Chang Hyae Jin)",
+                "character": "Hye-jin Jang"
+            }, {
+                "name": "Geun Se (as Park Myeong Hoon)",
+                "character": "Myeong-hoon Park"
+            }, {
+                "name": "Da Hye (as Jung Ziso)",
+                "character": "Ji-so Jung"
+            }, {
+                "name": "Da Song (as Jung Hyeon Jun)",
+                "character": "Hyun-jun Jung"
+            }, {
+                "name": "Driver Yoon (as Park Keun Rok)",
+                "character": "Keun-rok Park"
+            }, {
+                "name": "CEO of Pizza Place (as Jeung Esuh)",
+                "character": "Jeong Esuz"
+            }, {
+                "name": "CEO's Brother of Pizza Place",
+                "character": "Jo Jae-Myeong"
+            }, {
+                "name": "Neighbor (as Jung Ik Han)",
+                "character": "Ik-han Jung"
+            }, {
+                "name": "Drunk Person 1",
+                "character": "Kim Gyu Baek"
+            }],
+            "genres": ["Comedy", "Drama", "Thriller"]
         }
     }, {
         "title": "La Casa de Papel",
         "url": "https://www.imdb.com/title/tt6468322/?ref_=hm_fanfav_tt_3_pd_fp1",
         "contents": {
             "rating": "8.5",
-            "ratingCount": "211,709",
-            "synopsis": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain."
+            "ratingCount": "211,775",
+            "synopsis": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "director": "Álex Pina",
+            "cast": [{
+                "name": " Tokio\n31 episodes, 2017-2020 ",
+                "character": "Úrsula Corberó"
+            }, {
+                "name": " El Profesor\n31 episodes, 2017-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Raquel Murillo\n31 episodes, 2017-2020 ",
+                "character": "Álvaro Morte"
+            }, {
+                "name": " Berlín\n31 episodes, 2017-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Río\n31 episodes, 2017-2020 ",
+                "character": "Itziar Ituño"
+            }, {
+                "name": " Denver\n31 episodes, 2017-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Mónica Gaztambide\n31 episodes, 2017-2020 ",
+                "character": "Pedro Alonso"
+            }, {
+                "name": " Arturo Román\n31 episodes, 2017-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Helsinki\n31 episodes, 2017-2020 ",
+                "character": "Miguel Herrán"
+            }, {
+                "name": " Nairobi\n30 episodes, 2017-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Ángel\n25 episodes, 2017-2020 ",
+                "character": "Jaime Lorente"
+            }, {
+                "name": " Suárez\n25 episodes, 2017-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Coronel Prieto\n20 episodes, 2017-2020 ",
+                "character": "Esther Acebo"
+            }, {
+                "name": " Suarez\n20 episodes, 2017-2019 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Moscú\n19 episodes, 2017-2020 ",
+                "character": "Enrique Arce"
+            }, {
+                "name": " Mariví Fuentes\n18 episodes, 2017-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Bogotá\n16 episodes, 2019-2020 ",
+                "character": "Darko Peric"
+            }, {
+                "name": " Palermo\n16 episodes, 2019-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Alicia Sierra\n16 episodes, 2019-2020 ",
+                "character": "Alba Flores"
+            }, {
+                "name": " Marsella\n16 episodes, 2019-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Oslo\n16 episodes, 2017-2020 ",
+                "character": "Fernando Soto"
+            }, {
+                "name": " Alison Parker\n15 episodes, 2017 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Coronel Tamayo\n15 episodes, 2019-2020 ",
+                "character": "Mario de la Rosa"
+            }, {
+                "name": " Torres\n15 episodes, 2017 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Mercedes Colmenar\n14 episodes, 2017 ",
+                "character": "Juan Fernández"
+            }, {
+                "name": " Alison Parker\n14 episodes, 2017 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Amanda\n14 episodes, 2019-2020 ",
+                "character": "Rocco Narva"
+            }, {
+                "name": " Miguel Fernández\n14 episodes, 2019-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Paquita\n14 episodes, 2019-2020 ",
+                "character": "Paco Tous"
+            }, {
+                "name": " Antoñanzas\n13 episodes, 2019-2020 ",
+                "character": "\n                  \n              "
+            }, {
+                "name": " Gobernador del Banco de España\n13 episodes, 2019-2020 ",
+                "character": "Kiti Mánver"
+            }],
+            "genres": ["Action", "Crime", "Mystery", "Thriller"]
         }
     }, {
         "title": "The Gentlemen",
         "url": "https://www.imdb.com/title/tt8367814/?ref_=hm_fanfav_tt_4_pd_fp1",
         "contents": {
             "rating": "8.0",
-            "ratingCount": "93,670",
-            "synopsis": "A talented graduate of Oxford, using his unique mind and unprecedented audacity, came up with an illegal enrichment scheme using the estate of an impoverished English aristocracy. However, when he decides to sell his business to an influential clan of billionaires from the United States, no less charming but tough gentlemen stand in his way. An exchange of courtesies is planned, which certainly will not do without shootings and a couple of accidents."
+            "ratingCount": "93,791",
+            "synopsis": "A talented graduate of Oxford, using his unique mind and unprecedented audacity, came up with an illegal enrichment scheme using the estate of an impoverished English aristocracy. However, when he decides to sell his business to an influential clan of billionaires from the United States, no less charming but tough gentlemen stand in his way. An exchange of courtesies is planned, which certainly will not do without shootings and a couple of accidents.",
+            "director": "Guy Ritchie",
+            "cast": [{
+                "name": "Michael Pearson",
+                "character": "Matthew McConaughey"
+            }, {
+                "name": "Ray",
+                "character": "Charlie Hunnam"
+            }, {
+                "name": "Rosalind Pearson",
+                "character": "Michelle Dockery"
+            }, {
+                "name": "Matthew",
+                "character": "Jeremy Strong"
+            }, {
+                "name": "Jackie (as Lyne Renée)",
+                "character": "Lyne Renee"
+            }, {
+                "name": "Coach",
+                "character": "Colin Farrell"
+            }, {
+                "name": "Dry Eye",
+                "character": "Henry Golding"
+            }, {
+                "name": "Lord George",
+                "character": "Tom Wu"
+            }, {
+                "name": "Bunny",
+                "character": "Chidi Ajufo"
+            }, {
+                "name": "Fletcher",
+                "character": "Hugh Grant"
+            }, {
+                "name": "Frazier (as Simon Barker)",
+                "character": "Simon R. Barker"
+            }, {
+                "name": "Big Dave",
+                "character": "Eddie Marsan"
+            }, {
+                "name": "Phuc",
+                "character": "Jason Wong"
+            }, {
+                "name": "Hammy",
+                "character": "John Dagleish"
+            }, {
+                "name": "Barman",
+                "character": "Jordan Long"
+            }],
+            "genres": ["Action", "Comedy", "Crime"]
         }
     }, {
         "title": "Joker",
         "url": "https://www.imdb.com/title/tt7286456/?ref_=hm_fanfav_tt_5_pd_fp1",
         "contents": {
             "rating": "8.5",
-            "ratingCount": "746,659",
-            "synopsis": "Joker centers around an origin of the iconic arch nemesis and is an original, standalone story not seen before on the big screen. Todd Phillips' exploration of Arthur Fleck (Joaquin Phoenix), a man disregarded by society is not only a gritty character study, but also a broader cautionary tale."
+            "ratingCount": "746,729",
+            "synopsis": "Joker centers around an origin of the iconic arch nemesis and is an original, standalone story not seen before on the big screen. Todd Phillips' exploration of Arthur Fleck (Joaquin Phoenix), a man disregarded by society is not only a gritty character study, but also a broader cautionary tale.",
+            "director": "Todd Phillips",
+            "cast": [{
+                "name": "Arthur Fleck",
+                "character": "Joaquin Phoenix"
+            }, {
+                "name": "Murray Franklin",
+                "character": "Robert De Niro"
+            }, {
+                "name": "Sophie Dumond",
+                "character": "Zazie Beetz"
+            }, {
+                "name": "Penny Fleck",
+                "character": "Frances Conroy"
+            }, {
+                "name": "Thomas Wayne",
+                "character": "Brett Cullen"
+            }, {
+                "name": "Detective Burke",
+                "character": "Shea Whigham"
+            }, {
+                "name": "Detective Garrity",
+                "character": "Bill Camp"
+            }, {
+                "name": "Randall",
+                "character": "Glenn Fleshler"
+            }, {
+                "name": "Gary",
+                "character": "Leigh Gill"
+            }, {
+                "name": "Hoyt Vaughn",
+                "character": "Josh Pais"
+            }, {
+                "name": "GiGi Dumond",
+                "character": "Rocco Luna"
+            }, {
+                "name": "Gene Ufland",
+                "character": "Marc Maron"
+            }, {
+                "name": "Dr. Sally",
+                "character": "Sondra James"
+            }, {
+                "name": "Barry O'Donnell",
+                "character": "Murphy Guyer"
+            }, {
+                "name": "Alfred Pennyworth",
+                "character": "Douglas Hodge"
+            }],
+            "genres": ["Crime", "Drama", "Thriller"]
         }
     }, {
         "title": "1917",
         "url": "https://www.imdb.com/title/tt8579674/?ref_=hm_fanfav_tt_6_pd_fp1",
         "contents": {
             "rating": "8.4",
-            "ratingCount": "270,896",
-            "synopsis": "April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger."
-        }
-    }, {
-        "title": "Fight Club",
-        "url": "https://www.imdb.com/title/tt0137523/?ref_=hm_stp_pvs_piv_tt_1",
-        "contents": {
-            "rating": "8.8",
-            "ratingCount": "1,767,639",
-            "synopsis": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power. When the narrator is exposed to the hidden agenda of Tyler's fight club, he must accept the awful truth that Tyler may not be who he says he is."
-        }
-    }, {
-        "title": "Twelve Monkeys",
-        "url": "https://www.imdb.com/title/tt0114746/?ref_=hm_stp_pvs_piv_tt_2",
-        "contents": {
-            "rating": "8.0",
-            "ratingCount": "558,693",
-            "synopsis": "An intense film about time travel, this Sci-Fi entry was directed by Terry Gilliam, a member of the comedy troupe Monty Python. The film stars Bruce Willis as James Cole, a prisoner of the state in the year 2035 who can earn parole if he agrees to travel back in time and thwart a devastating plague. The virus has wiped out most of the Earth's population and the remainder live underground because the air is poisonous. Returning to the year 1990, six years before the start of the plague, Cole is soon imprisoned in a psychiatric facility because his warnings sound like mad ravings. There he meets a scientist named Dr. Kathryn Railly (Madeleine Stowe) and Jeffrey Goines (Brad Pitt), the mad son of an eminent virologist (Christopher Plummer). Cole is returned by the authorities to the year 2035, and finally ends up at his intended destination in 1996. He kidnaps Dr. Railly in order to enlist her help in his quest. Cole discovers graffiti by an apparent animal rights group called the Army ..."
-        }
-    }, {
-        "title": "No Country for Old Men",
-        "url": "https://www.imdb.com/title/tt0477348/?ref_=hm_stp_pvs_piv_tt_3",
-        "contents": {
-            "rating": "8.1",
-            "ratingCount": "807,746",
-            "synopsis": "In rural Texas, welder and hunter Llewelyn Moss (Josh Brolin) discovers the remains of several drug runners who have all killed each other in an exchange gone violently wrong. Rather than report the discovery to the police, Moss decides to simply take the two million dollars present for himself. This puts the psychopathic killer, Anton Chigurh (Javier Bardem), on his trail as he dispassionately murders nearly every rival, bystander and even employer in his pursuit of his quarry and the money. As Moss desperately attempts to keep one step ahead, the blood from this hunt begins to flow behind him with relentlessly growing intensity as Chigurh closes in. Meanwhile, the laconic Sheriff Ed Tom Bell (Tommy Lee Jones) blithely oversees the investigation even as he struggles to face the sheer enormity of the crimes he is attempting to thwart."
-        }
-    }, {
-        "title": "Jawaani Jaaneman",
-        "url": "https://www.imdb.com/title/tt9248952/?ref_=hm_stp_pvs_piv_tt_4",
-        "contents": {
-            "rating": "6.8",
-            "ratingCount": "3,661",
-            "synopsis": "A carefree, middle-aged man who spends most of his time at parties with beautiful women, suddenly finds himself the father of a young girl. She introduces him to her `hippie` mother, and just when he thinks things can`t get worse his daughter delivers yet another shock that she is pregnant."
-        }
-    }, {
-        "title": "Heat",
-        "url": "https://www.imdb.com/title/tt0113277/?ref_=hm_stp_pvs_piv_tt_5",
-        "contents": {
-            "rating": "8.2",
-            "ratingCount": "548,726",
-            "synopsis": "Hunters and their prey--Neil and his professional criminal crew hunt to score big money targets (banks, vaults, armored cars) and are, in turn, hunted by Lt. Vincent Hanna and his team of cops in the Robbery/Homicide police division. A botched job puts Hanna onto their trail while they regroup and try to put together one last big 'retirement' score. Neil and Vincent are similar in many ways, including their troubled personal lives. At a crucial moment in his life, Neil disobeys the dictum taught to him long ago by his criminal mentor--'Never have anything in your life that you can't walk out on in thirty seconds flat, if you spot the heat coming around the corner'--as he falls in love. Thus the stage is set for the suspenseful ending...."
-        }
-    }, {
-        "title": "The Aeronauts",
-        "url": "https://www.imdb.com/title/tt6141246/?ref_=hm_stp_pvs_piv_tt_6",
-        "contents": {
-            "rating": "6.6",
-            "ratingCount": "19,380",
-            "synopsis": "In 1862, pioneering meteorologist James Glaisher (Eddie Redmayne) teams up with daredevil balloon pilot Amelia Rennes (Felicity Jones) to advance human knowledge of the weather and fly higher than anyone in history. While their voyage to the very edge of existence helps the unlikely pair find their place in the world, they face physical and emotional challenges in the thin air, as the ascent becomes a fight for survival."
+            "ratingCount": "270,996",
+            "synopsis": "April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger.",
+            "director": "Sam Mendes",
+            "cast": [{
+                "name": "Lance Corporal Blake",
+                "character": "Dean-Charles Chapman"
+            }, {
+                "name": "Lance Corporal Schofield",
+                "character": "George MacKay"
+            }, {
+                "name": "Sergeant Sanders",
+                "character": "Daniel Mays"
+            }, {
+                "name": "General Erinmore",
+                "character": "Colin Firth"
+            }, {
+                "name": "Lieutenant Gordon",
+                "character": "Pip Carter"
+            }, {
+                "name": "Sergeant Miller",
+                "character": "Andy Apollo"
+            }, {
+                "name": "NCO Baker",
+                "character": "Paul Tinto"
+            }, {
+                "name": "Private Stokes",
+                "character": "Josef Davies"
+            }, {
+                "name": "NCO Harvey",
+                "character": "Billy Postlethwaite"
+            }, {
+                "name": "Private Buchanan",
+                "character": "Gabriel Akuwudike"
+            }, {
+                "name": "Lieutenant Leslie",
+                "character": "Andrew Scott"
+            }, {
+                "name": "Private Kilgour",
+                "character": "Spike Leighton"
+            }, {
+                "name": "German Pilot",
+                "character": "Robert Maaser"
+            }, {
+                "name": "Private Parry",
+                "character": "Gerran Howell"
+            }, {
+                "name": "Private Atkins",
+                "character": "Adam Hugill"
+            }],
+            "genres": ["Drama", "War"]
         }
     }]
 }
