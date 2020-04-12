@@ -46,8 +46,8 @@ const fs = require('fs');
             let director = credit_summary[0].querySelector('a').innerText;
 
             let titleCastContainer = document.querySelector('#titleCast');
-            let titleCastContainerName = titleCastContainer.querySelectorAll('td.character');
-            let titleCastContainerCharacter = titleCastContainer.querySelectorAll('td:not([class])');
+            let titleCastContainerCharacter = titleCastContainer.querySelectorAll('td.character');
+            let titleCastContainerName = titleCastContainer.querySelectorAll('td:not([class])');
 
             let cast = [];
             for(let j = 0; j < titleCastContainerName.length; j++){
