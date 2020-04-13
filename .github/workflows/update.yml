@@ -18,7 +18,17 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm ci
-    - run: node index.js
+      run: |
+        npm ci
+        node index.js
       env:
         CI: true
+    - name: Commit files
+    - run: |
+        git config --local user.email "bernard.adhitya@gmail.com"
+        git config --local user.name "bernardadhitya"
+        git commit -m "[System] Auto-update data.json" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.MY_GITHUB_TOKEN }}
