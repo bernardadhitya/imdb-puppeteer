@@ -83,5 +83,8 @@ const fs = require('fs');
         data: data
     }
     await browser.close();
+
+    console.log(json);
+    
     fs.writeFile('./data.json', JSON.stringify(json), err => err ? console.log(err): null);
 })();
