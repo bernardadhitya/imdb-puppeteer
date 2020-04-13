@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
 
     strategy:
@@ -14,8 +14,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
     - name: Update data.json
-      uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
       run: |
@@ -24,7 +24,7 @@ jobs:
       env:
         CI: true
     - name: Commit files
-    - run: |
+      run: |
         git config --local user.email "bernard.adhitya@gmail.com"
         git config --local user.name "bernardadhitya"
         git commit -m "[System] Auto-update data.json" -a
