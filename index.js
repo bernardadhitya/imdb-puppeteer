@@ -4,7 +4,7 @@ const fs = require('fs');
 (async () => {
     let movieUrl = 'https://www.imdb.com/chart/top?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4da9d9a5-d299-43f2-9c53-f0efa18182cd&pf_rd_r=RQ2TTEXHKBCAX7DG9QPV&pf_rd_s=right-4&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_ql_3';
     
-    let browser = await puppeteer.launch({headless: false});
+    let browser = await puppeteer.launch();
     let page = await browser.newPage();
     await page.setDefaultTimeout(90000);
     await page.goto(movieUrl, { waitUntil: 'networkidle0'});
@@ -28,7 +28,7 @@ const fs = require('fs');
         return res;
     })
 
-    for (let i = 0; i < topRating.length; i++) {
+    for (let i = 0; i < 10; i++) {
         let movie = topRating[i];
 
         let title = movie.title;
