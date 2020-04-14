@@ -64,13 +64,16 @@ const fs = require('fs');
                 genres.push(genreContainer[j].innerText);
             }
 
+            let imgUrl = document.querySelector('.title-overview .poster img').src;
+
             return {
                 rating,
                 ratingCount,
                 synopsis,
                 director,
                 cast,
-                genres
+                genres,
+                imgUrl
             }
         })
         data.push({
