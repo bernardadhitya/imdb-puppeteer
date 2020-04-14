@@ -28,7 +28,7 @@ const fs = require('fs');
         return res;
     })
 
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < topRating.length; i++) {
         let movie = topRating[i];
 
         let title = movie.title;
