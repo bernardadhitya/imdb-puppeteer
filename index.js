@@ -65,7 +65,6 @@ const fs = require('fs');
             }
 
             let imgUrl = document.querySelector('.title-overview .poster img').src;
-            imgUrl = imgUrl.replace('V1_UX182_CR0,0,182,268_AL_.jpg', 'V1_SY1000_CR0,0,674,1000_AL_.jpg');
             
             return {
                 rating,
