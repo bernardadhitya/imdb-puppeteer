@@ -28,7 +28,7 @@ const fs = require('fs');
         return res;
     })
 
-    for (let i = 0; i < topRating.length; i++) {
+    for (let i = 0; i < 3; i++) {
         let id = i+1;
         let movie = topRating[i];
         let title = movie.title;
@@ -64,7 +64,7 @@ const fs = require('fs');
                 genres.push(genreContainer[j].innerText);
             }
 
-            let imgUrl = document.querySelector('.title-overview .poster img').src;
+            let imgUrl = document.querySelector('.title-overview .poster a').href;
             
             return {
                 rating,
@@ -76,6 +76,14 @@ const fs = require('fs');
                 imgUrl
             }
         })
+
+        await page.goto(contents.imgUrl, {waitUntil: 'networkidle2'});
+        let imgUrl = await page.evaluate(() => {
+            return document.querySelector('img').src;
+        })
+
+        contents.imgUrl = imgUrl;
+
         data.push({
             id,
             title,
