@@ -29,8 +29,8 @@ const fs = require('fs');
     })
 
     for (let i = 0; i < topRating.length; i++) {
+        let id = i+1;
         let movie = topRating[i];
-
         let title = movie.title;
         let url = movie.url;
         await page.goto(url, {waitUntil: 'networkidle2'});
@@ -77,14 +77,13 @@ const fs = require('fs');
             }
         })
         data.push({
+            id,
             title,
             url,
             contents
         })
     }
-    let json = {
-        data: data
-    }
+    let json = data
     await browser.close();
 
     console.log(json);
