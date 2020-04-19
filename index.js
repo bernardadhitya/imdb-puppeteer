@@ -33,7 +33,7 @@ const fs = require('fs');
         let movie = topRating[i];
         let title = movie.title;
         let url = movie.url;
-        await page.goto(url, {waitUntil: 'networkidle2'});
+        await page.goto(url, {waitUntil: 'networkidle0'});
 
         let contents = await page.evaluate(() => {
             let rating = document.querySelector('span[itemprop="ratingValue"]').innerHTML;
@@ -54,7 +54,7 @@ const fs = require('fs');
                 cast.push({
                     name: titleCastContainerName[j].innerText,
                     character: titleCastContainerCharacter[j].innerText,
-                    image: titleCastContainerImage[i].src
+                    image: titleCastContainerImage[j].src
                 })
             }
             
