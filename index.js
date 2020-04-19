@@ -35,6 +35,8 @@ const fs = require('fs');
         let url = movie.url;
         await page.goto(url, {waitUntil: 'networkidle0'});
 
+        setTimeout(() => { console.log("Scrapping (" + i + "/" + topRating.length + "): "+ title + '...'); }, 2000);
+
         let contents = await page.evaluate(() => {
             let rating = document.querySelector('span[itemprop="ratingValue"]').innerHTML;
             
@@ -49,6 +51,7 @@ const fs = require('fs');
             let titleCastContainerCharacter = titleCastContainer.querySelectorAll('td.character');
             let titleCastContainerName = titleCastContainer.querySelectorAll('td:not([class])');
             let titleCastContainerImage = titleCastContainer.querySelectorAll('td.primary_photo img');
+            
             let cast = [];
             for(let j = 0; j < titleCastContainerName.length; j++){
                 cast.push({
