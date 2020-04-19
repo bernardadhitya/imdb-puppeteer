@@ -43,7 +43,7 @@ async function scrollPageToBottom(page, scrollStep = 100, scrollDelay = 20) {
     let movieUrl = 'https://www.imdb.com/chart/top?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4da9d9a5-d299-43f2-9c53-f0efa18182cd&pf_rd_r=RQ2TTEXHKBCAX7DG9QPV&pf_rd_s=right-4&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_ql_3';
 
     let browser = await puppeteer.launch({
-        headless: true
+        headless: false
     });
     let page = await browser.newPage();
     await page.setDefaultTimeout(90000);
@@ -70,7 +70,7 @@ async function scrollPageToBottom(page, scrollStep = 100, scrollDelay = 20) {
         return res;
     })
 
-    for (let i = 0; i < topRating.length; i++) {
+    for (let i = 0; i < 20; i++) {
         let id = i + 1;
         let movie = topRating[i];
         let title = movie.title;
@@ -84,10 +84,6 @@ async function scrollPageToBottom(page, scrollStep = 100, scrollDelay = 20) {
         }, 2000);
 
         const lastPosition = await scrollPageToBottom(page);
-
-        await page.waitForFunction(
-            'document.querySelector("#titleCast tr:last-child td.primary_photo img").src !== "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"'
-        );
 
         let contents = await page.evaluate(() => {
             let rating = document.querySelector('span[itemprop="ratingValue"]').innerHTML;
