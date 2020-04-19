@@ -2,10 +2,10 @@
     {
         "id": 1,
         "title": "The Shawshank Redemption",
-        "url": "https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=5Y8VZERCS1V0FA6XMAJK&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1",
+        "url": "https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1",
         "contents": {
             "rating": "9.3",
-            "ratingCount": "2,222,039",
+            "ratingCount": "2,222,086",
             "synopsis": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
             "director": "Frank Darabont",
             "cast": [
@@ -94,10 +94,10 @@
     {
         "id": 2,
         "title": "The Godfather",
-        "url": "https://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=5Y8VZERCS1V0FA6XMAJK&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2",
+        "url": "https://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2",
         "contents": {
             "rating": "9.2",
-            "ratingCount": "1,531,146",
+            "ratingCount": "1,531,185",
             "synopsis": "The Godfather \"Don\" Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.",
             "director": "Francis Ford Coppola",
             "cast": [
@@ -187,10 +187,10 @@
     {
         "id": 3,
         "title": "The Godfather: Part II",
-        "url": "https://www.imdb.com/title/tt0071562/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=5Y8VZERCS1V0FA6XMAJK&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3",
+        "url": "https://www.imdb.com/title/tt0071562/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3",
         "contents": {
             "rating": "9.0",
-            "ratingCount": "1,071,875",
+            "ratingCount": "1,071,907",
             "synopsis": "The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
             "director": "Francis Ford Coppola",
             "cast": [
@@ -280,10 +280,10 @@
     {
         "id": 4,
         "title": "The Dark Knight",
-        "url": "https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=5Y8VZERCS1V0FA6XMAJK&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4",
+        "url": "https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4",
         "contents": {
             "rating": "9.0",
-            "ratingCount": "2,197,003",
+            "ratingCount": "2,197,027",
             "synopsis": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as \"The Joker\" appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.",
             "director": "Christopher Nolan",
             "cast": [
@@ -375,10 +375,10 @@
     {
         "id": 5,
         "title": "12 Angry Men",
-        "url": "https://www.imdb.com/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=5Y8VZERCS1V0FA6XMAJK&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5",
+        "url": "https://www.imdb.com/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5",
         "contents": {
             "rating": "8.9",
-            "ratingCount": "649,357",
+            "ratingCount": "649,365",
             "synopsis": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open-and-shut case of murder soon becomes a detective story that presents a succession of clues creating doubt, and a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other. Based on the play, all of the action takes place on the stage of the jury room.",
             "director": "Sidney Lumet",
             "cast": [
@@ -447,6 +447,474 @@
                 "Drama"
             ],
             "imgUrl": "https://m.media-amazon.com/images/M/MV5BODgwMzJhNDYtNjg3Ni00Yzk2LWIyZDItMzUzMzVkMzcyNGY2XkEyXkFqcGdeQXVyODA1NDcyODc@._V1_SY245_SX174_AL_.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Schindler's List",
+        "url": "https://www.imdb.com/title/tt0108052/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_6",
+        "contents": {
+            "rating": "8.9",
+            "ratingCount": "1,157,420",
+            "synopsis": "Oskar Schindler is a vain and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.",
+            "director": "Steven Spielberg",
+            "cast": [
+                {
+                    "name": "Liam Neeson",
+                    "character": "Oskar Schindler",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjA1MTQ3NzU1MV5BMl5BanBnXkFtZTgwMDE3Mjg0MzE@._V1_UY44_CR6,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Ben Kingsley",
+                    "character": "Itzhak Stern",
+                    "image": "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_UY44_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Ralph Fiennes",
+                    "character": "Amon Goeth",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Caroline Goodall",
+                    "character": "Emilie Schindler",
+                    "image": "https://m.media-amazon.com/images/M/MV5BOTU2MDE0NzMxOV5BMl5BanBnXkFtZTcwNjE2OTg1OA@@._V1_UY44_UX32_AL_.jpg"
+                },
+                {
+                    "name": "Jonathan Sagall",
+                    "character": "Poldek Pfefferberg (as Jonathan Sagalle)",
+                    "image": "https://m.media-amazon.com/images/M/MV5BOGM4ZDg2MWMtNGNjNC00NWQ3LWE0NzktYWE3NjNiNWVkYWFjXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UY44_CR2,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Embeth Davidtz",
+                    "character": "Helen Hirsch",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNDU5NzQzMTkyMl5BMl5BanBnXkFtZTcwMjQ2OTUwOA@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Malgorzata Gebel",
+                    "character": "Wiktoria Klonowska (as Malgoscha Gebel)",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMzE0ZmZhMjQtY2RhYS00MjNjLWJmYzctMGNjNTViZWFlMDIzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY44_CR24,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Shmuel Levy",
+                    "character": "Wilek Chilowicz (as Shmulik Levy)",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYmYxZjFjYTgtYWQ4MS00MTU2LWI5NjEtMzRjMzBlZGU5ODgwL2ltYWdlXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UY44_CR6,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Mark Ivanir",
+                    "character": "Marcel Goldberg",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTg5MjY0MzY1OF5BMl5BanBnXkFtZTgwOTcwNTc3MDE@._V1_UY44_CR17,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Béatrice Macola",
+                    "character": "Ingrid (as Beatrice Macola)",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMzljODA2YmYtNzI1OC00ZGJmLWFkYjQtOWVlMjczODQyNWYyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY44_CR14,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Andrzej Seweryn",
+                    "character": "Julian Scherner",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYTA2MGE2MDYtYzMwYy00MmI5LWJlYzgtMDMzY2M5MWY4NTA4XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_UY44_CR5,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Friedrich von Thun",
+                    "character": "Rolf Czurda (as Friedrich Von Thun)",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTYwMzU4MjY3NF5BMl5BanBnXkFtZTYwODAzNjky._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Krzysztof Luft",
+                    "character": "Herman Toffel",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNzMyMjA5NjYtZmNlZC00OGVmLTljYmEtY2Q2ZTc2NWY4ZDRmXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_UY44_CR15,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Harry Nehring",
+                    "character": "Leo John",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Norbert Weisser",
+                    "character": "Albert Hujar",
+                    "image": "https://m.media-amazon.com/images/M/MV5BZjI1NWI1YWEtZWJiNi00Njk3LWEyZjgtMmM1MjMwNDMwNDMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY44_CR11,0,32,44_AL_.jpg"
+                }
+            ],
+            "genres": [
+                "Biography",
+                "Drama",
+                "History"
+            ],
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BNzczOWJlYTAtMDQ1Yy00MWU5LTk3Y2QtMWEyOGRiMjFkMTJmXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY480_SX303_AL_.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "title": "The Lord of the Rings: The Return of the King",
+        "url": "https://www.imdb.com/title/tt0167260/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_7",
+        "contents": {
+            "rating": "8.9",
+            "ratingCount": "1,574,849",
+            "synopsis": "The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Frodo and Sam reach Mordor in their quest to destroy the One Ring, while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+            "director": "Peter Jackson",
+            "cast": [
+                {
+                    "name": "Noel Appleby",
+                    "character": "Everard Proudfoot",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Ali Astin",
+                    "character": "Elanor Gamgee (as Alexandra Astin)",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTExMjEwMTg0MTBeQTJeQWpwZ15BbWU4MDY1OTI4MTMx._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Sean Astin",
+                    "character": "Sam",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTQ1NF5BMl5BanBnXkFtZTcwMzI2NzYyMQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "David Aston",
+                    "character": "Gondorian Soldier 3",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjA2Njc4Nzk2OV5BMl5BanBnXkFtZTcwMjExODIwOA@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "John Bach",
+                    "character": "Madril",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTg1Mjg2MzM0OV5BMl5BanBnXkFtZTcwMDQ2NzMwOA@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Sean Bean",
+                    "character": "Boromir",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTkzMzc4MDk5OF5BMl5BanBnXkFtZTcwODg3MjUxNw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Cate Blanchett",
+                    "character": "Galadriel",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Orlando Bloom",
+                    "character": "Legolas",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjE1MDkxMjQ3NV5BMl5BanBnXkFtZTcwMzQ3Mjc4MQ@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Billy Boyd",
+                    "character": "Pippin",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTQzOTEyMTQ3OF5BMl5BanBnXkFtZTYwNzkzMDk1._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Sadwyn Brophy",
+                    "character": "Eldarion",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Alistair Browning",
+                    "character": "Damrod",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYjhmMzUwMWQtZGEzOC00YzM2LWFhYmEtNDBiOTZmYThiYmEyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY44_CR1,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Marton Csokas",
+                    "character": "Celeborn",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjQxOTcyNDEyMV5BMl5BanBnXkFtZTgwMjMzMzYyNTE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Richard Edge",
+                    "character": "Gondorian Soldier 1",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Jason Fitch",
+                    "character": "Uruk 2",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTkyMjAzMDM3Nl5BMl5BanBnXkFtZTgwODUyNzA4OTE@._V1_UY44_CR17,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Bernard Hill",
+                    "character": "Theoden",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjA0MTI3MzE1M15BMl5BanBnXkFtZTYwODgzMDk1._V1_UX32_CR0,0,32,44_AL_.jpg"
+                }
+            ],
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BYzA4YjgxMDItNjAyMC00YjM3LTkyNDEtYTQyMzAxNGQ5NjJhXkEyXkFqcGdeQXVyNDk2MjQ4Mzk@._V1_SY370_SX888_AL_.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Pulp Fiction",
+        "url": "https://www.imdb.com/title/tt0110912/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_8",
+        "contents": {
+            "rating": "8.9",
+            "ratingCount": "1,743,331",
+            "synopsis": "Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.",
+            "director": "Quentin Tarantino",
+            "cast": [
+                {
+                    "name": "Tim Roth",
+                    "character": "Pumpkin",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Amanda Plummer",
+                    "character": "Honey Bunny",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTYwNjIyNTY3NF5BMl5BanBnXkFtZTcwOTUwMzg4OA@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Laura Lovelace",
+                    "character": "Waitress",
+                    "image": "https://m.media-amazon.com/images/M/MV5BZDVhMTc0YjktODg0OS00MzBhLWIzMTMtYzE3MWZkNTUxMjg5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY44_CR36,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "John Travolta",
+                    "character": "Vincent Vega",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTUwNjQ0ODkxN15BMl5BanBnXkFtZTcwMDc5NjQwNw@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Samuel L. Jackson",
+                    "character": "Jules Winnfield",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Phil LaMarr",
+                    "character": "Marvin",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjU5ZWU2YzItZDU5Ny00NmFiLTljY2UtMmQyMDBjM2FkMjJjXkEyXkFqcGdeQXVyMjM2NTI3MA@@._V1_UY44_CR3,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Frank Whaley",
+                    "character": "Brett",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNzkyODAyMDA1N15BMl5BanBnXkFtZTcwOTEyNDk0OQ@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Burr Steers",
+                    "character": "Roger",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjEwMjYyNjEwN15BMl5BanBnXkFtZTcwMTI1Nzc2Mw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Bruce Willis",
+                    "character": "Butch Coolidge",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_UY44_CR2,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Ving Rhames",
+                    "character": "Marsellus Wallace",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTMwMTgyMzc4MV5BMl5BanBnXkFtZTYwNjE5Mjk1._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Paul Calderon",
+                    "character": "Paul",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNDY2NzY5MDI5Nl5BMl5BanBnXkFtZTcwNDIzNjMzMw@@._V1_UY44_CR17,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Bronagh Gallagher",
+                    "character": "Trudi",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjE4OTc2MTM4OF5BMl5BanBnXkFtZTcwMTY3MjQ1Mw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Rosanna Arquette",
+                    "character": "Jody",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNTI0MjYxMzQ0OF5BMl5BanBnXkFtZTcwMTk0OTE3NQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Eric Stoltz",
+                    "character": "Lance",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTc1Njc5MjQyOF5BMl5BanBnXkFtZTYwNzQzNzgz._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Uma Thurman",
+                    "character": "Mia Wallace",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNzk1MTQyMl5BMl5BanBnXkFtZTgwMDIzMDEyMTE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                }
+            ],
+            "genres": [
+                "Crime",
+                "Drama"
+            ],
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMGIwODdlYTEtOTUxMy00OGNiLWFlODItNTdiOGYzMDg3ODI5XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_SX250_CR0,0,250,355_AL_.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "title": "The Good, the Bad and the Ugly",
+        "url": "https://www.imdb.com/title/tt0060196/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_9",
+        "contents": {
+            "rating": "8.8",
+            "ratingCount": "657,568",
+            "synopsis": "Blondie (The Good) (Clint Eastwood) is a professional gunslinger who is out trying to earn a few dollars. Angel Eyes (The Bad) (Lee Van Cleef) is a hitman who always commits to a task and sees it through, as long as he is paid to do so. And Tuco (The Ugly) (Eli Wallach) is a wanted outlaw trying to take care of his own hide. Tuco and Blondie share a partnership together making money off of Tuco's bounty, but when Blondie unties the partnership, Tuco tries to hunt down Blondie. When Blondie and Tuco come across a horse carriage loaded with dead bodies, they soon learn from the only survivor, Bill Carson (Antonio Casale), that he and a few other men have buried a stash of gold in a cemetery. Unfortunately, Carson dies and Tuco only finds out the name of the cemetery, while Blondie finds out the name on the grave. Now the two must keep each other alive in order to find the gold. Angel Eyes (who had been looking for Bill Carson) discovers that Tuco and Blondie met with Carson and knows ...",
+            "director": "Sergio Leone",
+            "cast": [
+                {
+                    "name": "Eli Wallach",
+                    "character": "Tuco",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjA4OTM3ODQ5MF5BMl5BanBnXkFtZTgwMzE3OTcwMjE@._V1_UY44_CR1,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Clint Eastwood",
+                    "character": "Blondie",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTg3MDc0MjY0OV5BMl5BanBnXkFtZTcwNzU1MDAxOA@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Lee Van Cleef",
+                    "character": "Sentenza / Angel Eyes",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTY0ODU1NjY5N15BMl5BanBnXkFtZTcwNTI0NzEyMw@@._V1_UY44_CR14,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Aldo Giuffrè",
+                    "character": "Alcoholic Union Captain (as Aldo Giuffre')",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjIzMzgzNTQzMl5BMl5BanBnXkFtZTcwODY2NzEyMw@@._V1_UY44_CR16,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Luigi Pistilli",
+                    "character": "Father Pablo Ramirez",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTM2MzM4MDI5OV5BMl5BanBnXkFtZTcwNjU2NzEyMw@@._V1_UY44_CR12,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Rada Rassimov",
+                    "character": "Maria",
+                    "image": "https://m.media-amazon.com/images/M/MV5BYmE5NzEwOGUtNGIzNy00NDk5LWFkOGUtZjJhNzc2MjYzODEyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_UY44_CR6,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Enzo Petito",
+                    "character": "Storekeeper",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Claudio Scarchilli",
+                    "character": "Mexican Peon",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "John Bartha",
+                    "character": "Sheriff (as John Bartho)",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMzlhZWQwZTktYmM4MS00NThjLWE0NjktODNhNDU2Yzc2ZGM5XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UY44_CR25,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Livio Lorenzon",
+                    "character": "Baker",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Antonio Casale",
+                    "character": "Jackson / Bill Carson",
+                    "image": "https://m.media-amazon.com/images/M/MV5BY2U3MmM1NDQtMjU4OC00YTQ1LThjZjUtMjFlN2Q5MmVkZDIwXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_UY44_CR22,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Sandro Scarchilli",
+                    "character": "Mexican Peon",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Benito Stefanelli",
+                    "character": "Member of Angel Eyes' Gang",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Angelo Novi",
+                    "character": "Monk",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Antonio Casas",
+                    "character": "Stevens",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNmQ4NDJmNWUtYzgwZS00YTU1LWE4ZDAtNzJiZGFhZDUzNjg2XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_UY44_CR23,0,32,44_AL_.jpg"
+                }
+            ],
+            "genres": [
+                "Western"
+            ],
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjE3NTQwNjgyNV5BMl5BanBnXkFtZTgwODU4ODE5MDE@._V1_SY250_SX164_AL_.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "url": "https://www.imdb.com/title/tt0120737/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=MRE5K8KR4N2Y0F5N2XQ6&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_10",
+        "contents": {
+            "rating": "8.8",
+            "ratingCount": "1,587,458",
+            "synopsis": "An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign.",
+            "director": "Peter Jackson",
+            "cast": [
+                {
+                    "name": "Alan Howard",
+                    "character": "Voice of the Ring (voice)",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTQyMDYwNzY3OF5BMl5BanBnXkFtZTcwMDYxMTUwOA@@._V1_UY44_CR1,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Noel Appleby",
+                    "character": "Everard Proudfoot",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Sean Astin",
+                    "character": "Sam",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTQ1NF5BMl5BanBnXkFtZTcwMzI2NzYyMQ@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Sala Baker",
+                    "character": "Sauron",
+                    "image": "https://m.media-amazon.com/images/M/MV5BNTI0M2E4NzctNzY1OC00ZDYwLWI4MTAtMTliNTVkODhlODY0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Sean Bean",
+                    "character": "Boromir",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTkzMzc4MDk5OF5BMl5BanBnXkFtZTcwODg3MjUxNw@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Cate Blanchett",
+                    "character": "Galadriel",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Orlando Bloom",
+                    "character": "Legolas",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjE1MDkxMjQ3NV5BMl5BanBnXkFtZTcwMzQ3Mjc4MQ@@._V1_UY44_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Billy Boyd",
+                    "character": "Pippin",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTQzOTEyMTQ3OF5BMl5BanBnXkFtZTYwNzkzMDk1._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Marton Csokas",
+                    "character": "Celeborn",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMjQxOTcyNDEyMV5BMl5BanBnXkFtZTgwMjMzMzYyNTE@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Megan Edwards",
+                    "character": "Mrs. Proudfoot",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Michael Elsworth",
+                    "character": "Gondorian Archivist",
+                    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB468460248_.png"
+                },
+                {
+                    "name": "Mark Ferguson",
+                    "character": "Gil-galad",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTY2NzM1MTcxN15BMl5BanBnXkFtZTcwOTg4MDkwOA@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Ian Holm",
+                    "character": "Bilbo",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTI0ODA2MjM2NF5BMl5BanBnXkFtZTYwNDg5NDIz._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Christopher Lee",
+                    "character": "Saruman",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTMzMjU5NDA0NV5BMl5BanBnXkFtZTYwMTUwMzI0._V1_UX32_CR0,0,32,44_AL_.jpg"
+                },
+                {
+                    "name": "Lawrence Makoare",
+                    "character": "Lurtz",
+                    "image": "https://m.media-amazon.com/images/M/MV5BMTM2MzQ5MjA2NF5BMl5BanBnXkFtZTcwNjI5NTIxOA@@._V1_UX32_CR0,0,32,44_AL_.jpg"
+                }
+            ],
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy"
+            ],
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWNkZDdkYjAtODYzNy00YjQ5LTk3YjktMjlkNDNjN2M1ZjRkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SY500_CR0,0,348,500_AL_.jpg"
         }
     }
 ]

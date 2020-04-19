@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-async function scrollPageToBottom(page, scrollStep = 400, scrollDelay = 50) {
+async function scrollPageToBottom(page, scrollStep = 100, scrollDelay = 20) {
     const lastPosition = await page.evaluate(
         async (step, delay) => {
                 const getScrollHeight = (element) => {
