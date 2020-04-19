@@ -48,12 +48,13 @@ const fs = require('fs');
             let titleCastContainer = document.querySelector('#titleCast');
             let titleCastContainerCharacter = titleCastContainer.querySelectorAll('td.character');
             let titleCastContainerName = titleCastContainer.querySelectorAll('td:not([class])');
-
+            let titleCastContainerImage = titleCastContainer.querySelectorAll('td.primary_photo img');
             let cast = [];
             for(let j = 0; j < titleCastContainerName.length; j++){
                 cast.push({
                     name: titleCastContainerName[j].innerText,
-                    character: titleCastContainerCharacter[j].innerText
+                    character: titleCastContainerCharacter[j].innerText,
+                    image: titleCastContainerImage[i].src
                 })
             }
             
